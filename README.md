@@ -4,13 +4,13 @@
 <br>
 <br>
 <br>
-   <h2 align="center">𝔅𝔦𝔞𝔫𝔠𝔞 𝔖𝔢𝔫𝔫𝔞</h2>
+   <h1 align="center">𝔅𝔦𝔞𝔫𝔠𝔞 𝔖𝔢𝔫𝔫𝔞</h1>
     <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=191&height=19&lines=Software+Developer+" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715F2&width=15&height=19&lines=%7C" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=191&height=19&lines=Creative+Mind" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715F2&width=15&height=19&lines=%7C" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=191&height=19&lines=Lifelong+Learner" alt="Typing SVG" /></p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=190&height=19&lines=Software+Developer+" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715F2&width=15&height=19&lines=%7C" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=135&height=19&lines=Creative+Mind" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715F2&width=15&height=19&lines=%7C" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=19&lines=Lifelong+Learner" alt="Typing SVG" /></p>
 
 
   <p align="center">
