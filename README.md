@@ -25,5 +25,5 @@
 
 <br>
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bncasenna&layout=compact&theme=synthwave&bg_color=0d1117&count_private=false&hide_border=true&hide_title=true&v=2"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bncasenna&layout=compact&theme=synthwave&bg_color=0d1117&count_private=true&hide_border=true&hide_title=true&v=2"/>
 </div>
